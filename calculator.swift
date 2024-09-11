@@ -15,7 +15,7 @@ class Calculator {
 
     func divide(_ a: Int, _ b: Int) -> Int? {
         guard b != 0 else {
-            print("Error: Division by zeroesss")
+            print("Error: Division by zeroessssss")
             return nil
         }
         return a / b
