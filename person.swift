@@ -12,7 +12,7 @@ class Person {
     }
 
     func displayInfo() {
-        print("personName: \(name), Age: \(age), Email: \(email)")
+        print("yourName: \(name), Age: \(age), Email: \(email)")
     }
 }
 
