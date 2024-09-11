@@ -1,2 +1,2 @@
 # Program to print 'Hello, World!'
-print('Hello, worldssss for feature new demo !')
+print('Hello, worldssss !')
